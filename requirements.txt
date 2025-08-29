@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+ta
+datetime
+tensorflow
+sklearn
+xgboost
+plotly
+warnings
